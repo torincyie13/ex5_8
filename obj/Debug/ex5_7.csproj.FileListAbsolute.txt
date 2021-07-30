@@ -1,0 +1,10 @@
+C:\Users\thawkins022713\source\repos\ex5_7\obj\Debug\ex5_7.csproj.AssemblyReference.cache
+C:\Users\thawkins022713\source\repos\ex5_7\obj\Debug\ex5_7.Properties.Resources.resources
+C:\Users\thawkins022713\source\repos\ex5_7\obj\Debug\ex5_7.csproj.GenerateResource.cache
+C:\Users\thawkins022713\source\repos\ex5_7\obj\Debug\ex5_7.csproj.CoreCompileInputs.cache
+C:\Users\thawkins022713\source\repos\ex5_7\bin\Debug\ex5_7.exe.config
+C:\Users\thawkins022713\source\repos\ex5_7\bin\Debug\ex5_7.exe
+C:\Users\thawkins022713\source\repos\ex5_7\bin\Debug\ex5_7.pdb
+C:\Users\thawkins022713\source\repos\ex5_7\obj\Debug\ex5_7.exe
+C:\Users\thawkins022713\source\repos\ex5_7\obj\Debug\ex5_7.pdb
+C:\Users\thawkins022713\source\repos\ex5_7\obj\Debug\ex5_7.frmAuthors.resources
